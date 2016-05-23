@@ -9,3 +9,5 @@ curl -sL https://deb.nodesource.com/setup_4.x | sh
 apt-get install -y nodejs
 # su vagrant
 npm install -g nodemon
+
+npm install --global babel-cli
